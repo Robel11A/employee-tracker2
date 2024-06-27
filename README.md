@@ -27,3 +27,8 @@ To set up the project locally, follow these steps:
 ## Usage
 To start the application, run:
     node index.js
+
+## Video Demonstaration
+
+[link the demo video](./employee-tracker%202.mov) 
+
