@@ -30,5 +30,5 @@ To start the application, run:
 
 ## Video Demonstaration
 
-[link the demo video](./employee-tracker%202.mov) 
+[link the demo video](./employee-tracker.mov) 
 
