@@ -30,5 +30,6 @@ To start the application, run:
 
 ## Video Demonstaration
 
-[link the demo video](./employee-tracker.mov) 
+[link the demo video](./employee.mov) 
 
+![](./employee.mov)
